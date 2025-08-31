@@ -1,4 +1,7 @@
-# assignment_gnmwebapp
+**Flask web application **
+
+**Objective**
+This assignment aims to provide students with hands-on experience in fundamental DevOps practices. By completing this assignment, students will gain proficiency in version control with Git and GitHub, containerization using Docker, and implementing continuous integration and continuous delivery (CI/CD) pipelines with GitHub Actions.
 
 Develop a robust and automated application for ACEest_Fitness and Gym, a burgeoning startup. 
 As a Junior DevOps Engineer, the primary responsibility is to establish a streamlined development and deployment workflow that ensures code quality, consistency, and efficient delivery. 
