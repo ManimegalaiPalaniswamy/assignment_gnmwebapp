@@ -1,0 +1,13 @@
+name: GYMWebApp_ENV
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas=1.5.3
+  - matplotlib
+  - scikit-learn
+  - pip:
+    - mlflow
+    - tensorflow
